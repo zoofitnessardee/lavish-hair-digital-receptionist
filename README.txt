@@ -39,3 +39,7 @@ V1.3 BOOKING REQUEST TEST
 - The interface repeatedly states that this is a REQUEST, not a confirmed appointment.
 - IMPORTANT: Because this free GitHub Pages version uses mailto, the customer must tap SEND in the iPad's email app. The website itself does not transmit or store the request.
 - Change the test email address to Ruth's confirmed salon email before launch.
+
+V1.3.1 FIX
+- Main home-screen button now reads REQUEST AN APPOINTMENT.
+- Subtitle now reads Choose a preferred date & time.
