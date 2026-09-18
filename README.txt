@@ -30,3 +30,12 @@ V1.2
 - Replaced the plain Instagram button with a prominent
   CHECK OUT SOME OF OUR WORK button.
 - Button opens the official LAVISH Hair Instagram page.
+
+V1.3 BOOKING REQUEST TEST
+- Added stylist, service, date, time, name, mobile and notes form.
+- Date/time options follow supplied salon opening hours.
+- Sunday and Monday are blocked as closed.
+- Final step opens an email addressed to tattzoohealingsolution@gmail.com with the request pre-filled.
+- The interface repeatedly states that this is a REQUEST, not a confirmed appointment.
+- IMPORTANT: Because this free GitHub Pages version uses mailto, the customer must tap SEND in the iPad's email app. The website itself does not transmit or store the request.
+- Change the test email address to Ruth's confirmed salon email before launch.

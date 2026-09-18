@@ -30,3 +30,6 @@
   padding-left:10px;
   padding-right:10px;
 }
+
+/* v1.3 booking request */
+.booking-note{background:#fff;border-left:4px solid #ad9a94;padding:14px;line-height:1.45}#bookingForm{max-width:720px}#bookingForm label{display:block;font-weight:bold;margin:14px 0;color:#514945}#bookingForm input,#bookingForm select,#bookingForm textarea{display:block;width:100%;margin-top:7px;padding:14px;border:1px solid #cfc4bf;background:#fff;font-size:17px;border-radius:0}#bookingForm textarea{resize:none}.optional{font-weight:normal;color:#887b75}.requestbtn{margin-top:18px}.requestbtn:disabled{opacity:.5}.card .outline{width:100%;background:#fff}.booking-warning{color:#765f55;font-size:14px}
