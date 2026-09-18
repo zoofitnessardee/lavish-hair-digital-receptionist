@@ -1,4 +1,4 @@
-LAVISH Hair — POPPAD Digital Receptionist v1
+LAVISH Hair — POPPAD Digital Receptionist v1.1
 
 Prototype ready for iPad/browser testing.
 
@@ -17,3 +17,16 @@ Still to confirm with Ruth before public launch:
 €XX prices are deliberate placeholders and should not be used publicly.
 
 90-second inactivity reset is included.
+
+V1.1 IPAD POLISH
+- Enlarged LAVISH logo in the main header
+- Made DIGITAL RECEPTIONIST more understated
+- Reduced excess vertical space around the main heading
+- Preserved the 2 x 3 main-button layout
+- Balanced the five lower navigation buttons
+- Changed home-screen wording to MEET THE TEAM / Ruth & Lauren
+
+V1.2
+- Replaced the plain Instagram button with a prominent
+  CHECK OUT SOME OF OUR WORK button.
+- Button opens the official LAVISH Hair Instagram page.
